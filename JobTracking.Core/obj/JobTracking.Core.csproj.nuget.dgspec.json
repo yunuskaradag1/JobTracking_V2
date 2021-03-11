@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Projects\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj": {}
+    "C:\\Users\\arge24\\Documents\\GitHub\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj": {}
   },
   "projects": {
-    "D:\\My Projects\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj": {
+    "C:\\Users\\arge24\\Documents\\GitHub\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Projects\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj",
+        "projectUniqueName": "C:\\Users\\arge24\\Documents\\GitHub\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj",
         "projectName": "JobTracking.Core",
-        "projectPath": "D:\\My Projects\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj",
+        "projectPath": "C:\\Users\\arge24\\Documents\\GitHub\\JobTracking_V2\\JobTracking.Core\\JobTracking.Core.csproj",
         "packagesPath": "C:\\Users\\arge24\\.nuget\\packages\\",
-        "outputPath": "D:\\My Projects\\JobTracking_V2\\JobTracking.Core\\obj\\",
+        "outputPath": "C:\\Users\\arge24\\Documents\\GitHub\\JobTracking_V2\\JobTracking.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\arge24\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,24 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

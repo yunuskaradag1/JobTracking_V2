@@ -1,0 +1,9 @@
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\obj\Debug\netcoreapp3.1\JobTracking.Core.csprojAssemblyReference.cache
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\obj\Debug\netcoreapp3.1\JobTracking.Core.AssemblyInfoInputs.cache
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\obj\Debug\netcoreapp3.1\JobTracking.Core.AssemblyInfo.cs
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\obj\Debug\netcoreapp3.1\JobTracking.Core.csproj.CoreCompileInputs.cache
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\bin\Debug\netcoreapp3.1\JobTracking.Core.deps.json
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\bin\Debug\netcoreapp3.1\JobTracking.Core.dll
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\bin\Debug\netcoreapp3.1\JobTracking.Core.pdb
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\obj\Debug\netcoreapp3.1\JobTracking.Core.dll
+C:\Users\arge24\Documents\GitHub\JobTracking_V2\JobTracking.Core\obj\Debug\netcoreapp3.1\JobTracking.Core.pdb
